@@ -2,7 +2,7 @@
 
 ***
 
-* [Written by Korean version]()
+* [Written by Korean version](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/README_Korean.md)
 
 ## Introduction
 
