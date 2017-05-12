@@ -18,3 +18,10 @@ This is a Pi-based robot to implement visual recognition([by YOLO](https://pjred
 
 
 ## My motivation
+I'm so interested in performance of the image recognition with TensorFlow on Raspberry Pi. In addition, the Jupyter notebook is really convenient to instantly code as a quick prototype. The Raspberry pi's processing speed is very slow compare to my laptop.
+
+([The paper](https://pjreddie.com/media/files/papers/yolo_1.pdf))
+
+![Architecture_CNN.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/Architecture_CNN.png)
+
+
