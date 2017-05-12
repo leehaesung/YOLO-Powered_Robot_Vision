@@ -90,7 +90,7 @@ dog: 56%
 * Re-name from 'darknet' to 'YOLO-Powered_Robot_Vision'.
 
 ```
-/home/pi/Documents/YOLO-Powered_Robot_Vision
+mv /home/pi/Documents/darknet /home/pi/Documents/YOLO-Powered_Robot_Vision
 cd /home/pi/Documents/YOLO-Powered_Robot_Vision
 ```
 
