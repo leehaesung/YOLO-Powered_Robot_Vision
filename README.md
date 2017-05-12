@@ -109,7 +109,7 @@ jupyter-notebook
 
 
 ## Result of Object Recognition
-(Caution!!: Please don't use any picture. I made the source for an educational purpose.)
+(Caution!!: I have used the image sources for an educational purpose. Please don't use any picture in copyright.)
 
 ![predictions06.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/predictions06.png)
 
