@@ -87,6 +87,21 @@ dog: 56%
 ![Output](https://pjreddie.com/media/image/Screen_Shot_2016-11-17_at_11.14.54_AM.png)
 
 
+* Re-name from 'darknet' to 'YOLO-Powered_Robot_Vision'.
+
+```
+/home/pi/Documents/YOLO-Powered_Robot_Vision
+cd /home/pi/Documents/YOLO-Powered_Robot_Vision
+```
+
+* Download 'YOLO-Powered_Robot_Vision.ipynb' at /home/pi/Documents/YOLO-Powered_Robot_Vision
+```
+wget https://github.com/leehaesung/YOLO-Powered_Robot_Vision/raw/master/YOLO-Powered_Robot_Vision.ipynb
+
+jupyter-notebook
+```
+
+
 
 ## Source Codes
 
