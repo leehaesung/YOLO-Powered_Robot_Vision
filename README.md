@@ -18,7 +18,9 @@ This is a Pi-based robot to implement visual recognition([by YOLO](https://pjred
 
 
 ## My motivation
-I was so interested in performance of the image recognition with YOLO-2 on Raspberry Pi. In addition, the Jupyter notebook is really convenient to instantly code as a quick prototype. The Raspberry pi's processing speed is very slow compare to my laptop.
+I was so interested in performance of the image recognition with YOLO-2 on Raspberry Pi. In addition, the Jupyter notebook is really convenient to instantly code as a quick prototype. According to paper, I realised that YOLO is a fast, accurate visual detector, making it ideal for computer vision system. We connect YOLO to a webcam and verify that it maintains real-time performance. So, the Raspberry pi's processing speed is very slow compare to my laptop.
+
+[(Picasso Dataset precision-recall curves: paper)](https://pjreddie.com/media/files/papers/yolo_1.pdf)
 
 ![Perfomance_Picaso.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/Perfomance_Picaso.png)
 
