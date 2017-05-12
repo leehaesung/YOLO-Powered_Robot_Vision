@@ -109,7 +109,7 @@ jupyter-notebook
 
 
 ## Result of Object Recognition
-
+![predictions06.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/predictions06.png)
 ![predictions07.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/predictions07.png)
 ![predictions08.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/predictions08.png)
 ![predictions09.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/predictions09.png)
