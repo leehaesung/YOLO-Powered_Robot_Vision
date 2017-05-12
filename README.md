@@ -109,10 +109,17 @@ jupyter-notebook
 
 
 ## Result of Object Recognition
+(Caution!!: Please don't use any picture. I made the source for an educational purpose.)
+
 ![predictions06.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/predictions06.png)
+
+* Another examples
 ![predictions07.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/predictions07.png)
+
 ![predictions08.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/predictions08.png)
+
 ![predictions09.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/predictions09.png)
+
 ![predictions11.png](https://github.com/leehaesung/YOLO-Powered_Robot_Vision/blob/master/ImageFiles/predictions11.png)
 
 
